@@ -1,0 +1,11 @@
+repository:
+    # See https://docs.github.com/en/free-pro-team@latest/rest/reference/repos#update-a-repository for all available settings.
+
+    description: TP10 - profile
+    homepage: http://edu.iepscf-uccle.be/moodle/mod/workshop/view.php?id=17914
+    has_downloads: false
+    has_issues: false
+    has_projects: false
+    has_wiki: false
+
+    default_branch: main
